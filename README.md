@@ -1,4 +1,4 @@
-```ssh
+```sh
 ### WireGuard
 rm -rf /etc/storage/wireguard
 wget https://github.com/ArtReeX/padavan-wg/blob/main/client.sh -O /etc/storage/wireguard/client.sh
